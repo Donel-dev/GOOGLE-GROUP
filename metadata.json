@@ -1,0 +1,5 @@
+{
+  "name": "Neon Rhythm Snake",
+  "description": "A combined music player and snake game with a dark neon aesthetic.",
+  "requestFramePermissions": []
+}
